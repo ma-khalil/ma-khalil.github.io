@@ -2,14 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I'm a software engineer who is very passionate about the free and open-source development, and the open-source community in general. I love coding, especially in C/C++, and problem solving. Besides coding, I love listening to post rock, as well as, psychedelic rock music, also I tend to play guitar from time to time, although, I haven't played it in a while :)
