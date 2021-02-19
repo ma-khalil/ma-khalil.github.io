@@ -11,7 +11,7 @@ In January, I had been accepted as a SoK student, in which I'm going to work to 
 
 ## The Overview
 
-Before we started this journey, I had been discussing how to go and execute the plan deducted with Leinir, my awesome mentor whom I feel very lucky to have, I've learned A LOT from him and he has been really supportive and helpful. First, we decided to try creating arbitrary jumps on different pages in any book and visualising them as just basic rectangles on the screen, so that I can get used to the code and learn more about the code base.
+Before we started this journey, I had been discussing how to go and execute the plan deducted with Leinir, my awesome mentor whom I feel very lucky to have, I've learned A LOT from them and they have been really supportive and helpful. First, we decided to try creating arbitrary jumps on different pages in any book and visualising them as just basic rectangles on the screen, so that I can get used to the code and learn more about the code base.
 
 ![](https://invent.kde.org/graphics/peruse/uploads/0149b24d71768b380869f7bce18fd368/image.png)
 
